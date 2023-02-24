@@ -67,10 +67,10 @@ global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62XXXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '22597691024'
+global.nomorown = '22597691024'
+global.namebot = '22597691024'
+global.nameown = 'zero two'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -84,8 +84,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 
 /*============== STAFF ==============*/
-global.owner = [
-  ['62XXXXXXXXXXX', 'WH MODS DEV', true],
+global.owner = ['22597691024', 'zero two', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -93,8 +92,8 @@ global.owner = [
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['22597691024'] // Want some help?
+global.prems = ['22597691024'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -138,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
+global.wm = '                「 zero_two 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By zero_two`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 zero two  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +635,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'zero_two'
+global.stickauth = `zero two`
 
 global.multiplier = 38 // The higher, The harder levelup
 
